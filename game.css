@@ -1,0 +1,45 @@
+body
+{
+	background-image: linear-gradient(to top, #283048 0%, #72afd3 100%);
+	background-repeat:no-repeat;
+	height: 760px;
+
+}
+
+	.login_div1 , .login_div2
+	{
+		background: white;
+		padding: 10px;
+		float: none;
+		border-radius: 15px;
+		box-shadow: 10px 10px;
+	}
+
+
+#player1_name , #player2_name
+{
+	display: inline-block;
+	margin-left: 20px;
+}
+#word
+{
+	width: 60%;
+	font-family: "Roboto Condensed", sans-serif;
+	font-optical-sizing: auto;
+	font-weight: <weight>;
+	font-style: normal;
+
+}
+#word_display
+{
+	letter-spacing: 5px;
+}
+#output
+{
+background: white;
+border-radius: 10px;
+border-top: 10px solid #36528f;
+padding: 10px;
+float: none;
+text-align: left;
+}
